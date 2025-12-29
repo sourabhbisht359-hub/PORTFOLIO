@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   preview: {
     allowedHosts: [
-      "portfolio-9urm.onrender.com"
+      "preview.allowedHosts"
     ]
   }
 });
